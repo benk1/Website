@@ -13,3 +13,4 @@ back up data, share my work with others, and collaborate with programmers and
 other users of Git.
 
 ADDED LINE FOR EXERCISE PURPOSES.
+<a href="https://git-scm.com">official Git documentation</a>
